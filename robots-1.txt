@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmkiarostami-droid.github.io/astrofilm-Articles/sitemap.xml
